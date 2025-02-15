@@ -49,6 +49,6 @@ public class GetBoardsValidationTest extends BaseTest {
         response
                 .then()
                 .statusCode(401);
-        Assertions.assertEquals("invalid token", response.body().asString());
+        Assertions.assertEquals("invalid key", response.body().asString());
     }
 }

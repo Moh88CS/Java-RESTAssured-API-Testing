@@ -28,7 +28,7 @@ public class AuthValidationArgumentsProvider implements ArgumentsProvider {
                        Map.of(
                                 "token", "ATTAbdb870c70e23e66ac72f51077bd8512b477cc9a72a8043456b4b86f3d64c2897D9A2F1F3"
                         ),
-                        "invalid app key"
+                        "invalid key"
                 )
         ).map(Arguments::of);
     }
