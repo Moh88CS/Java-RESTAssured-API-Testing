@@ -27,3 +27,4 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/Moh88CS/Java-RESTAssured-API-Testing.git
    cd Java-RESTAssured-API-Testing
+   gradle clean test
