@@ -17,7 +17,7 @@ This project is a robust API testing framework built using **Java** and **RESTAs
 Before you begin, ensure you have the following installed:
 
 - **Java Development Kit (JDK)**: Version 8 or higher.
-- **Maven**: For dependency management and build automation.
+- **Gradle**: For dependency management and build automation.
 - **IDE**: IntelliJ IDEA, Eclipse, or any other Java-compatible IDE.
 - **Git**: To clone the repository.
 
